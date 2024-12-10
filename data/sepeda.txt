@@ -1,0 +1,15 @@
+Sepeda Gunung|S 001
+Sepeda Balap|S 002
+Sepeda Lipat|S 003
+Sepeda Kota|S 004
+Sepeda Anak|S 005
+Sepeda Hybrid|S 006
+Sepeda Cruiser|S 007
+Sepeda Mountain (MTB)|S 008
+Sepeda Touring|S 009
+Sepeda BMX|S 010
+Sepeda Fixed Gear|S 011
+Sepeda Retractable|S 012
+Sepeda Balap Wanita|S 013
+Sepeda Listrik|S 014
+Sepeda Multi-Gear|S 015

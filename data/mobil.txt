@@ -1,0 +1,15 @@
+Sedan|2020|4 Kursi, Mesin 1.5L, Transmisi Otomatis|B 1234 ABC
+SUV|2021|5 Kursi, Mesin 2.0L, Transmisi Manual|B 5678 DEF
+Hatchback|2019|4 Kursi, Mesin 1.2L, Transmisi CVT|B 9876 GHI
+MPV|2022|7 Kursi, Mesin 2.5L, Transmisi Otomatis|B 5432 JKL
+Sport|2023|2 Kursi, Mesin 3.0L, Transmisi Manual|B 1122 MNO
+Sedan|2018|4 Kursi, Mesin 1.5L, Transmisi Otomatis|B 3344 PQR
+SUV|2020|5 Kursi, Mesin 2.2L, Transmisi Otomatis|B 5566 STU
+Hatchback|2021|4 Kursi, Mesin 1.3L, Transmisi Manual|B 7788 VWX
+MPV|2019|7 Kursi, Mesin 2.4L, Transmisi CVT|B 9900 YZA
+Sport|2022|2 Kursi, Mesin 3.5L, Transmisi Manual|B 1234 BCD
+Sedan|2021|4 Kursi, Mesin 1.6L, Transmisi Otomatis|B 2345 EFG
+SUV|2023|5 Kursi, Mesin 2.0L, Transmisi Manual|B 3456 HIJ
+Hatchback|2022|4 Kursi, Mesin 1.1L, Transmisi CVT|B 4567 KLM
+MPV|2020|7 Kursi, Mesin 2.6L, Transmisi Otomatis|B 5678 NOP
+Sport|2021|2 Kursi, Mesin 3.2L, Transmisi Manual|B 6789 QRS
